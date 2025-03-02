@@ -1,2 +1,5 @@
 # CS210
 This is my submission for CS210 Module 8
+Chada Tech Clocks
+Hey there. This is my C++ project for CS-210 where I built a simple program that shows time in both 12-hour and 24-hour formats at the same time. Users can add hours, minutes, or seconds through a menu, and the program handles all the time changes correctly. I'm happy with how the Clock class turned out - it keeps all the time data organized while making it easy to change the time.
+This is actually my first time using GitHub and my first time coding in C++. It was both challenging and fun to learn these new skills at the same time. I know there's room to make the program better. The error handling could be stronger, and I want to replace that system "cls" command with something that works on all computers. The hardest part was getting all the time changes to work right when seconds reach 59 and so on, but sketching it out on paper really helped me understand what to do. I learned a lot about designing classes, checking user input, and making clear screen displays that I'll use in my next projects. If you have any ideas on how to make this code better, I'd love to hear them.
